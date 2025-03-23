@@ -41,6 +41,7 @@ const myBrain = {
     <tr>
       <td style="text-align: center; vertical-align: middle;">💡 Solving puzzles</td>
       <td style="text-align: center; vertical-align: middle;">🎵 Creating Spotify playlists nobody asked for</td>
+      <td style="text-align: center; vertical-align: middle;">🎮 Gaming</td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">📚 Learning random tech facts</td>
@@ -110,3 +111,4 @@ public class DevPhilosophy {
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
