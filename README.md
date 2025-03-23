@@ -11,7 +11,7 @@
 Currently exploring the depths of Computer Science at **Informatics Institute of Technology** while building cool stuff on the side. When I'm not battling with algorithms or debugging at 3 AM, you can find me dreaming about a world with no syntax errors.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" />
 </div>
 
 ## 💻 Tech Stack
@@ -32,7 +32,7 @@ const myBrain = {
 ## 🚀 My Coding Journey Visualization
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6F9Nh/giphy.gif" width="450" />
 </div>
 
 ```
@@ -121,7 +121,7 @@ Timeline of My Coding Evolution:
 ## 🧙‍♀️ My Coding Spells
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="450" />
 </div>
 
 ```java
@@ -173,7 +173,7 @@ public class DevPhilosophy {
 ## 🚀 Current Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
   <br>
   <br>
   <div>
