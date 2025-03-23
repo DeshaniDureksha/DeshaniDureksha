@@ -45,27 +45,6 @@ Timeline of My Coding Evolution:
 [2025] ======================== Building Amazing Things ==========>>
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeshaniDureksha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshaniDureksha&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🚀 Current Focus
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
-  <br>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/-Mastering_React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/-Building_RESTful_APIs-FF6C37?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-    <img src="https://img.shields.io/badge/-Learning_Cloud_Services-4285F4?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/-Exploring_UX_Design-FF3E00?style=for-the-badge&logo=adobexd&logoColor=white" alt="UX"/>
-  </div>
-</div>
-
 ## 💡 Fun Coding Facts About Me
 
 <div align="center">
