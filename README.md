@@ -11,7 +11,7 @@
 Currently exploring the depths of Computer Science at **Informatics Institute of Technology** while building cool stuff on the side. When I'm not battling with algorithms or debugging at 3 AM, you can find me dreaming about a world with no syntax errors.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
 </div>
 
 ## 💻 Tech Stack
@@ -50,63 +50,46 @@ const myBrain = {
   </table>
 </div>
 
-## 🚀 Computer Science Journey
+## ✨ My Development Philosophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </div>
 
 ```java
-public class LifeOfACSStudent {
-    private int problems = 99;
-    private int coffeeLevel = 100;
-    private int satisfaction = 0;
+public class DevPhilosophy {
+    private final String[] principles = {
+        "Write code that humans can understand",
+        "Test early, test often",
+        "Keep it simple and straightforward",
+        "Learn something new every day",
+        "Collaborate and share knowledge"
+    };
     
-    public String dailyRoutine() {
-        while (problems > 0) {
-            if (coffeeLevel <= 10) {
-                refillCoffee();
-            }
-            
-            boolean solved = attemptToSolve(problems);
-            
-            if (solved) {
-                problems--;
-                satisfaction++;
-                System.out.println("One less bug in the world!");
-            } else {
-                drinkCoffee();
-                System.out.println("*confused Java noises*");
-            }
+    public void applyTo(Project project) {
+        for (String principle : principles) {
+            project.implement(principle);
+            project.quality++;
         }
-        
-        return "Time to create new problems!";
     }
     
-    private void refillCoffee() {
-        coffeeLevel = 100;
-        System.out.println("Coffee refilled. Debug mode activated.");
-    }
-    
-    private void drinkCoffee() {
-        coffeeLevel -= 10;
-    }
-    
-    private boolean attemptToSolve(int problem) {
-        // 50% chance of solving a problem
-        return Math.random() > 0.5;
+    public String getMantra() {
+        return "In a world of bugs, be the debugger you wish to see.";
     }
 }
 ```
 
-## 📈 My Coding Life
+## 🚀 Current Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="200" />
   <br>
   <br>
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=DeshaniDureksha&theme=nord&column=7" alt="trophy" />
+  <div>
+    <img src="https://img.shields.io/badge/-Mastering_React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/-Building_RESTful_APIs-FF6C37?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/-Learning_Cloud_Services-4285F4?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/-Exploring_UX_Design-FF3E00?style=for-the-badge&logo=adobexd&logoColor=white" alt="UX"/>
   </div>
 </div>
 
@@ -122,7 +105,7 @@ public class LifeOfACSStudent {
 </div>
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DeshaniDureksha&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   <br>
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
