@@ -18,13 +18,31 @@ Currently exploring the depths of Computer Science at **Informatics Institute of
 
 ```javascript
 const myBrain = {
-  languages: ["Java", "Python", "HTML", "CSS"],
-  frontend: ["React.js", "HTML", "CSS"],
-  backend: ["Spring"],
-  databases: ["MySQL"],
+  languages: ["Java", "Python", "HTML", "CSS", "JavaScript"],
+  frontend: ["React.js", "HTML", "CSS", "Bootstrap"],
+  backend: ["Spring", "Node.js"],
+  databases: ["MySQL", "MongoDB"],
+  tools: ["Git", "VS Code", "Postman", "Figma"],
   currentStatus: "Turning caffeine into code",
-  codePhilosophy: "Make it work, make it right, make it fast"
+  codePhilosophy: "Make it work, make it right, make it fast",
+  debuggingTechnique: "Console.log('Why am I here?') everywhere"
 };
+```
+
+## 🚀 My Coding Journey Visualization
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="450" />
+</div>
+
+```
+Timeline of My Coding Evolution:
+
+[2021] ========== Hello World! ==========>>
+[2022] ============= Web Dev Basics ==========>>
+[2023] ================ Framework Frenzy ==========>>
+[2024] ==================== Full Stack Adventures ==========>>
+[2025] ======================== Building Amazing Things ==========>>
 ```
 
 ## 📊 GitHub Stats
@@ -32,6 +50,55 @@ const myBrain = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeshaniDureksha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshaniDureksha&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌈 Weekly Coding Soundtrack
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Day</th>
+      <th>Mood</th>
+      <th>Music Genre</th>
+      <th>Productivity Level</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>☕ Need more coffee</td>
+      <td>Lo-fi beats</td>
+      <td>▓▓▓░░░░░░░ 30%</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>🚀 Getting momentum</td>
+      <td>Upbeat indie</td>
+      <td>▓▓▓▓▓░░░░░ 50%</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>💻 Deep work mode</td>
+      <td>Epic soundtracks</td>
+      <td>▓▓▓▓▓▓▓░░░ 70%</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>🔥 On fire</td>
+      <td>Electronic</td>
+      <td>▓▓▓▓▓▓▓▓░░ 80%</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>🎉 Celebration mode</td>
+      <td>Pop hits</td>
+      <td>▓▓▓▓▓▓░░░░ 60%</td>
+    </tr>
+    <tr>
+      <td>Weekend</td>
+      <td>🧠 Learning time</td>
+      <td>Ambient</td>
+      <td>▓▓▓▓▓▓▓▓▓░ 90%</td>
+    </tr>
+  </table>
 </div>
 
 ## 🎮 When I'm Not Coding
@@ -51,11 +118,34 @@ const myBrain = {
   </table>
 </div>
 
-## ✨ My Development Philosophy
+## 🧙‍♀️ My Coding Spells
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </div>
+
+```java
+public class DevMagic {
+    private final String[] spells = {
+        "Debuggus Maximus: Reveals all hidden bugs",
+        "Caffeinatum Infinitum: Endless energy for coding sessions",
+        "Stackus Overflowus: Summons help from the developer realm",
+        "Gitium Commitium: Safely stores your code enchantments",
+        "Responsivium Layoutium: Makes UIs adapt to any screen size"
+    };
+    
+    public String castRandomSpell() {
+        int index = (int) (Math.random() * spells.length);
+        return "🪄✨ " + spells[index];
+    }
+    
+    public String getWizardWisdom() {
+        return "The true magic is not in the code, but in the coder.";
+    }
+}
+```
+
+## ✨ My Development Philosophy
 
 ```java
 public class DevPhilosophy {
@@ -94,6 +184,37 @@ public class DevPhilosophy {
   </div>
 </div>
 
+## 💡 Fun Coding Facts About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🐛 Bugs encountered</td>
+      <td>∞</td>
+    </tr>
+    <tr>
+      <td>🔍 Bugs actually fixed</td>
+      <td>∞ - 1</td>
+    </tr>
+    <tr>
+      <td>⏰ Longest coding session</td>
+      <td>16 hours (don't try this at home)</td>
+    </tr>
+    <tr>
+      <td>☕ Cups of coffee per code line</td>
+      <td>0.7</td>
+    </tr>
+    <tr>
+      <td>🌟 Times Stack Overflow saved me</td>
+      <td>Countless</td>
+    </tr>
+    <tr>
+      <td>📚 Documentation reading style</td>
+      <td>Only after everything else fails</td>
+    </tr>
+  </table>
+</div>
+
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -103,7 +224,11 @@ public class DevPhilosophy {
   <a href="mailto:deshanidureksha123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/DeshaniDureksha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
+
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=DeshaniDureksha&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
@@ -112,3 +237,4 @@ public class DevPhilosophy {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
+<!-- Easter egg: If you're reading the source of this README, you've found the secret message! You're the kind of detail-oriented person I'd love to collaborate with. Send me an email with the subject "Found the Easter egg" and let's connect! -->
