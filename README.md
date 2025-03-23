@@ -101,50 +101,6 @@ Timeline of My Coding Evolution:
   </table>
 </div>
 
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="text-align: center; vertical-align: middle;">💡 Solving puzzles</td>
-      <td style="text-align: center; vertical-align: middle;">🎵 Creating Spotify playlists nobody asked for</td>
-      <td style="text-align: center; vertical-align: middle;">🎮 Gaming</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; vertical-align: middle;">📚 Learning random tech facts</td>
-      <td style="text-align: center; vertical-align: middle;">☕ Finding the perfect coffee-to-code ratio</td>
-      <td style="text-align: center; vertical-align: middle;">🌙 Stargazing (at both real stars and GitHub stars)</td>
-    </tr>
-  </table>
-</div>
-
-## 🧙‍♀️ My Coding Spells
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="450" />
-</div>
-
-```java
-public class DevMagic {
-    private final String[] spells = {
-        "Debuggus Maximus: Reveals all hidden bugs",
-        "Caffeinatum Infinitum: Endless energy for coding sessions",
-        "Stackus Overflowus: Summons help from the developer realm",
-        "Gitium Commitium: Safely stores your code enchantments",
-        "Responsivium Layoutium: Makes UIs adapt to any screen size"
-    };
-    
-    public String castRandomSpell() {
-        int index = (int) (Math.random() * spells.length);
-        return "🪄✨ " + spells[index];
-    }
-    
-    public String getWizardWisdom() {
-        return "The true magic is not in the code, but in the coder.";
-    }
-}
-```
-
 ## ✨ My Development Philosophy
 
 ```java
