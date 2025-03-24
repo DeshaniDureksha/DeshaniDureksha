@@ -1,10 +1,10 @@
-# Hello, World! I'm Deshani 👋
+# Hello, World! I'm Deshani
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A020F0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Code+%2B+Coffee+%3D+%3C3;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## 🧠 Code. Debug. Coffee. Repeat.
+## Code. Debug. Coffee. Repeat.
 
 > "The code works? Ship it before it changes its mind!" - Me, probably
 
@@ -14,7 +14,7 @@ Currently exploring the depths of Computer Science at **Informatics Institute of
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" />
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -34,102 +34,103 @@ Currently exploring the depths of Computer Science at **Informatics Institute of
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
-## 🚀 My Coding Journey Visualization
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100" />
-        <br/>
-        <strong>2021</strong>
-        <br/>
-        First "Hello World"
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZR/giphy.gif" width="100" />
-        <br/>
-        <strong>2022</strong>
-        <br/>
-        Web Development
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
-        <br/>
-        <strong>2023</strong>
-        <br/>
-        Framework Explorer
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" />
-        <br/>
-        <strong>2024</strong>
-        <br/>
-        Full Stack Journey
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/jnUIILAzQEJXKNmaB0/giphy.gif" width="100" />
-        <br/>
-        <strong>2025</strong>
-        <br/>
-        Innovation Builder
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 💡 Fun Coding Facts About Me
+## GitHub Stats
 
 <div align="center">
   <table>
     <tr>
-      <td>🐛 Bugs encountered</td>
-      <td>∞</td>
-    </tr>
-    <tr>
-      <td>🔍 Bugs actually fixed</td>
-      <td>∞ - 1</td>
-    </tr>
-    <tr>
-      <td>⏰ Longest coding session</td>
-      <td>16 hours (don't try this at home)</td>
-    </tr>
-    <tr>
-      <td>☕ Cups of coffee per code line</td>
-      <td>0.7</td>
-    </tr>
-    <tr>
-      <td>🌟 Times Stack Overflow saved me</td>
-      <td>Countless</td>
-    </tr>
-    <tr>
-      <td>📚 Documentation reading style</td>
-      <td>Only after everything else fails</td>
-    </tr>
-    <tr>
-      <td>🎧 Coding playlist length</td>
-      <td>42 hours of lofi beats</td>
-    </tr>
-    <tr>
-      <td>💭 Most common thought</td>
-      <td>"It worked on my machine..."</td>
-    </tr>
-    <tr>
-      <td>🔄 Git commits per day</td>
-      <td>8 (6 of which are "fixed typo")</td>
-    </tr>
-    <tr>
-      <td>🧠 Brain capacity devoted to remembering semicolons</td>
-      <td>32%</td>
+      <td align="center" width="50%">
+        <h3>Contribution Statistics</h3>
+        <div>
+          <div style="display: inline-block; text-align: left; padding: 10px;">
+            <div>Total Stars Earned: 66</div>
+            <div>Total Commits: 1.2k</div>
+            <div>Total PRs: 70</div>
+            <div>Total Issues: 1</div>
+            <div>Total Contributions: 1,977</div>
+            <div>Current Streak: 13 days</div>
+            <div>Longest Streak: 24 days</div>
+          </div>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <h3>Language Proficiency</h3>
+        <div>
+          <div>Java: 30.22%</div>
+          <div>Python: 24.82%</div>
+          <div>JavaScript: 23.56%</div>
+          <div>HTML: 16.72%</div>
+          <div>CSS: 4.69%</div>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
-## 🌐 Let's Connect!
+## My Coding Journey
+
+<div align="center">
+  <table border="0" style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td style="background-color: #1a1a1a; border-radius: 10px; padding: 15px; text-align: center; width: 20%;">
+        <h3>2021</h3>
+        <p style="font-style: italic; color: #888;">First Steps</p>
+        <p>Wrote my first Hello World program and began exploring programming fundamentals</p>
+      </td>
+      <td style="background-color: #1a1a1a; border-radius: 10px; padding: 15px; text-align: center; width: 20%;">
+        <h3>2022</h3>
+        <p style="font-style: italic; color: #888;">Web Development</p>
+        <p>Mastered HTML, CSS, and JavaScript while building responsive websites and interactive UIs</p>
+      </td>
+      <td style="background-color: #1a1a1a; border-radius: 10px; padding: 15px; text-align: center; width: 20%;">
+        <h3>2023</h3>
+        <p style="font-style: italic; color: #888;">Framework Explorer</p>
+        <p>Adopted React.js and Spring frameworks, creating more sophisticated full-stack applications</p>
+      </td>
+      <td style="background-color: #1a1a1a; border-radius: 10px; padding: 15px; text-align: center; width: 20%;">
+        <h3>2024</h3>
+        <p style="font-style: italic; color: #888;">Full Stack Mastery</p>
+        <p>Implementing complex architectures with microservices, APIs, and database optimization</p>
+      </td>
+      <td style="background-color: #1a1a1a; border-radius: 10px; padding: 15px; text-align: center; width: 20%;">
+        <h3>2025</h3>
+        <p style="font-style: italic; color: #888;">Solution Architect</p>
+        <p>Creating comprehensive solutions to complex problems with clean architecture and best practices</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Developer Profile
+
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+        <h3>Technical Approach</h3>
+        <ul style="text-align: left; list-style-type: none; padding-left: 0;">
+          <li>• Clean code philosophy with focus on readability and maintainability</li>
+          <li>• Test-driven development practitioner with 87% average test coverage</li>
+          <li>• Performance optimization specialist, reducing load times by average 42%</li>
+          <li>• Advocate for accessible design and inclusive user experiences</li>
+          <li>• Regular contributor to open-source projects in education space</li>
+        </ul>
+      </td>
+      <td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+        <h3>Development Environment</h3>
+        <ul style="text-align: left; list-style-type: none; padding-left: 0;">
+          <li>• VS Code with Monokai Pro theme and Fira Code font</li>
+          <li>• Git workflow with semantic commit messages</li>
+          <li>• Agile methodology with weekly sprints and structured reviews</li>
+          <li>• Productivity enhanced by Pomodoro technique (52/17 split)</li>
+          <li>• Cloud deployment to AWS and Vercel with CI/CD automation</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deshani-dureksha">
