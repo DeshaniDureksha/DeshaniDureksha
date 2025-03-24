@@ -16,34 +16,71 @@ Currently exploring the depths of Computer Science at **Informatics Institute of
 
 ## 💻 Tech Stack
 
-```javascript
-const myBrain = {
-  languages: ["Java", "Python", "HTML", "CSS", "JavaScript"],
-  frontend: ["React.js", "HTML", "CSS", "Bootstrap"],
-  backend: ["Spring", "Node.js"],
-  databases: ["MySQL", "MongoDB"],
-  tools: ["Git", "VS Code", "Postman", "Figma"],
-  currentStatus: "Turning caffeine into code",
-  codePhilosophy: "Make it work, make it right, make it fast",
-  debuggingTechnique: "Console.log('Why am I here?') everywhere"
-};
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
 
 ## 🚀 My Coding Journey Visualization
 
 <div align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6F9Nh/giphy.gif" width="450" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100" />
+        <br/>
+        <strong>2021</strong>
+        <br/>
+        First "Hello World"
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZR/giphy.gif" width="100" />
+        <br/>
+        <strong>2022</strong>
+        <br/>
+        Web Development
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
+        <br/>
+        <strong>2023</strong>
+        <br/>
+        Framework Explorer
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" />
+        <br/>
+        <strong>2024</strong>
+        <br/>
+        Full Stack Journey
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/jnUIILAzQEJXKNmaB0/giphy.gif" width="100" />
+        <br/>
+        <strong>2025</strong>
+        <br/>
+        Innovation Builder
+      </td>
+    </tr>
+  </table>
 </div>
-
-```
-Timeline of My Coding Evolution:
-
-[2021] ========== Hello World! ==========>>
-[2022] ============= Web Dev Basics ==========>>
-[2023] ================ Framework Frenzy ==========>>
-[2024] ==================== Full Stack Adventures ==========>>
-[2025] ======================== Building Amazing Things ==========>>
-```
 
 ## 💡 Fun Coding Facts About Me
 
@@ -72,6 +109,22 @@ Timeline of My Coding Evolution:
     <tr>
       <td>📚 Documentation reading style</td>
       <td>Only after everything else fails</td>
+    </tr>
+    <tr>
+      <td>🎧 Coding playlist length</td>
+      <td>42 hours of lofi beats</td>
+    </tr>
+    <tr>
+      <td>💭 Most common thought</td>
+      <td>"It worked on my machine..."</td>
+    </tr>
+    <tr>
+      <td>🔄 Git commits per day</td>
+      <td>8 (6 of which are "fixed typo")</td>
+    </tr>
+    <tr>
+      <td>🧠 Brain capacity devoted to remembering semicolons</td>
+      <td>32%</td>
     </tr>
   </table>
 </div>
